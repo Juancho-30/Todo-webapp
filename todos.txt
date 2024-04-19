@@ -3,5 +3,3 @@ eat
 comment
 commit
 play
-take the dog out
-
